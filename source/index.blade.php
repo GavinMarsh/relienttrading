@@ -23,9 +23,9 @@
     
     <p>Completing the above will provide you with a one year subscription to my private Telegram broadcast channel where I post all of my trades immediatly, i will also provide you with an affiliation code.</p>
     
-     <h1>Want to Work Together?</h1>
+     <h1>Ready to join?</h1>
 
-    <p class="text-xl">Send me an email with a contact name and your refferal code if you have one and i'll send you over instructions how to register.
+    <p class="text-xl">Email your contact name and refferal code (if you have one) and i'll send over instructions.
     </p>
     <p class="text-3xl">
       <a href="mailto:danramirez1618@protonmail.com">
