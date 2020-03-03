@@ -2,8 +2,8 @@
 
     <div class="flex flex-col items-center text-center max-w-lg">
 
-    <h2 class="text-3xl mb-0">Get my best monthly insights on sales + software</h2>
-    <p class="text-center text-lg mb-0">Can I send you monthly useful & interesting finds about personal growth, enterprise-sales, software & making stuff that matters? I'll also link to any new articles or projects.</p>
+    <h2 class="text-3xl mb-0">Subscribe to recieve my exclusive weekly report</h2>
+    <p class="text-center text-lg mb-0">???</p>
 
     <form
     class="w-full max-w-md mt-8"
@@ -42,7 +42,7 @@
       </button>
     </div>
   </form>
-    <small class="pt-2">No spam. Unsubscribe anytime.</small>
+    <small class="pt-2">Unsubscribe anytime.</small>
 </div>
 
 </div>
