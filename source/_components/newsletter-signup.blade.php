@@ -29,14 +29,14 @@
 
       <button
         class="w-full md:w-auto md:flex-no-shrink
-              bg-blue hover:bg-blue-light border-blue
+              bg-black hover:bg-blue-light border-blue
               hover:border-blue-light uppercase font-bold
               tracking-wide border-4 text-white py-4 px-4
               rounded-lg md:rounded-none md:rounded-r-lg
               text-base md:shadow-none shadow-lg"
         type="submit"
       >
-        Subscribe
+        Send
       </button>
     </div>
   </form>
