@@ -66,9 +66,5 @@
 
         @stack('scripts')
 
-        <footer class="bg-white text-center text-sm mt-12 py-4" role="contentinfo">
-
-    
-        </footer>
     </body>
 </html>
