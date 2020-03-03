@@ -12,12 +12,12 @@
 <section class="flex-col justify-center items-center text-center mb-20">
 
     <img src="/assets/img/gavin.jpg"
-        alt="Gavin Marsh"
+        alt="Dan Ramirez"
         class="inline-flex rounded-full h-32 w-32 bg-contain mx-auto">
 
-    <h1 >I'm Gavin: Sales manager + developer of useful tools.</h1>
+    <h1 >I'm Rez: Professional Trader of a personal account.</h1>
 
-    <p>Currently, I run gamification sales at <a href="https://www.noblesystems.com/solutions/call-center-gamification/">Noble Systems</a>.</p>
+    <p>Currently, I post all of my current trades on my Telegram channel <a href="https://www.noblesystems.com/solutions/call-center-gamification/">heyres: Live Trading</a>.</p>
 
     <p>I'm co-founding <a href="http://crypto-mars.com">Crypto Mars</a> as lead technical analyst to help educate new investors in the wild-west market of crypto.</p>
 
