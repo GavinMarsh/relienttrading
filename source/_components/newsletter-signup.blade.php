@@ -29,7 +29,7 @@
 
       <button
         class="w-full md:w-auto md:flex-no-shrink
-              bg-white hover:bg-black border-white
+              bg-white hover:bg-black border-black
               hover:border-white uppercase font-bold
               tracking-wide border-4 text-black hover:text-white py-4 px-4
               rounded-lg md:rounded-none md:rounded-r-lg
