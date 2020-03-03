@@ -15,7 +15,7 @@
         alt="Dan Ramirez"
         class="inline-flex rounded-full h-32 w-32 bg-contain mx-auto">
 
-    <h1 >Subsribe to my Live Trading Telegram channel to recieve immediate notification of my trades.</h1>
+    <h1 >Sign up to my Live Trading channel to recieve immediate notification of my trades.</h1>
 
     <p>Currently, I post all of my current trades on my Telegram channel <a href="https://www.noblesystems.com/solutions/call-center-gamification/">heyres: Live Trading</a>.</p>
 
