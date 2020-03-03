@@ -1,4 +1,4 @@
-
+@extends('_layouts.master')
 
 @push('meta')
     <meta property="og:title" content="{{ $page->siteName }}" />
@@ -14,9 +14,6 @@
     <img src="/assets/img/rez.jpg"
         alt="Dan Ramirez"
         class="inline-flex rounded-full h-32 w-32 bg-contain mx-auto">
-
-  
-
 </section>
 
     @include('_components.newsletter-signup')
