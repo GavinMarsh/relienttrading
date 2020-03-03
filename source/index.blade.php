@@ -1,10 +1,10 @@
 @extends('_layouts.master')
 
 //@push('meta')
-    //<meta property="og:title" content="{{ $page->siteName }}" />
-    //<meta property="og:type" content="website" />
-    //<meta property="og:url" content="{{ $page->getUrl() }}"/>
-    //<meta property="og:description" content="{{ $page->blogDescription }}" />
+    <meta property="og:title" content="{{ $page->siteName }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ $page->getUrl() }}"/>
+    <meta property="og:description" content="{{ $page->blogDescription }}" />
 //@endpush
 
 @section('body')
@@ -25,7 +25,7 @@
     
      <h1>Ready to join?</h1>
 
-    <p class="text-xl">Email your contact name and refferal code (if you have one) and i'll send over instructions.
+    <p class="text-xl">Email me: Name & refferal code (if you have one). I'll then send over instructions.
     </p>
     <p class="text-3xl">
       <a href="mailto:danramirez1618@protonmail.com">
