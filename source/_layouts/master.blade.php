@@ -21,10 +21,8 @@
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-
             gtag('config', 'UA-89589431-1', { 'optimize_id': 'GTM-M7SGBX9'});
             </script>
-
         @endif
 
         <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,300i,400,400i,700,700i,800,800i" rel="stylesheet">
@@ -39,8 +37,6 @@
         height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <!-- End Google Tag Manager (noscript) -->
         @endif
-
-
-
+        
     </body>
 </html>
