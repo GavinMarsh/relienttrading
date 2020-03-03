@@ -1,11 +1,11 @@
 @extends('_layouts.master')
 
-//@push('meta')
+@push('meta')
     <meta property="og:title" content="{{ $page->siteName }}" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="{{ $page->getUrl() }}"/>
     <meta property="og:description" content="{{ $page->blogDescription }}" />
-//@endpush
+@endpush
 
 @section('body')
 
