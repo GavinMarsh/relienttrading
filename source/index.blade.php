@@ -9,7 +9,7 @@
 
 @section('body')
 
-<section class="flex-col justify-center items-center text-center mb-20">
+<section class="flex-col justify-center items-center text-center mb-100">
 
     <img src="/assets/img/rez.jpg"
         alt="Dan Ramirez"
@@ -17,6 +17,3 @@
 </section>
 
     @include('_components.newsletter-signup')
-
-   
-
