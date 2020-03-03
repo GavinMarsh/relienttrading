@@ -1,4 +1,4 @@
-@extends('_layouts.master')
+
 
 @push('meta')
     <meta property="og:title" content="{{ $page->siteName }}" />
