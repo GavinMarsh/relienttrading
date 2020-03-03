@@ -12,13 +12,6 @@
         <meta property="og:description" content="{{ $page->siteDescription }}" />
         <meta property="og:image" content="/assets/img/meta.png" />
 
-        <!-- Twitter Card data -->
-        <meta name="twitter:card" content="summary">
-        <meta name="twitter:site" content="@crypto_mars">
-        <meta name="twitter:title" content="{{ $page->title ?  $page->title . ' | ' : '' }}{{ $page->siteName }}">
-        <meta name="twitter:description" content="{{ $page->siteDescription }}">
-        <meta name="twitter:creator" content="@crypto_mars">
-        <meta name="twitter:image" content="/assets/img/meta.png">
 
         <title>
             @if ( strpos($page->getPath(), 'notes') )
