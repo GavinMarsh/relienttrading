@@ -53,9 +53,7 @@
                 </div>
             </header>
 
-            <main role="main" class="flex-auto w-full container max-w-lg mx-auto py-16 px-6">
-                @yield('body')
-            </main>
+         
         </div>
 
         <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
