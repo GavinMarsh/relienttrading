@@ -31,7 +31,7 @@
         class="w-full md:w-auto md:flex-no-shrink
               bg-black hover:bg-white border-black
               hover:border-black uppercase font-bold
-              tracking-wide border-4 text-white py-4 px-4
+              tracking-wide border-4 text-white hover:text-black py-4 px-4
               rounded-lg md:rounded-none md:rounded-r-lg
               text-base md:shadow-none shadow-lg"
         type="submit"
