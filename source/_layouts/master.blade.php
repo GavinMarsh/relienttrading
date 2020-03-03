@@ -69,7 +69,7 @@
                         <a href="/" title="{{ $page->siteName }} home" class="inline-flex items-center">
                             {{-- <img class="h-8 md:h-10 mr-3" src="/assets/img/logo.svg" alt="{{ $page->siteName }} logo" /> --}}
 
-                            <span class="text-lg md:text-2xl text-blue-darkest font-semibold hover:text-blue-dark my-0">Gavin Marsh</span>
+                            <span class="text-lg md:text-2xl text-blue-darkest font-semibold hover:text-blue-dark my-0">Dan Ramirez</span>
                         </a>
                     </div>
 
