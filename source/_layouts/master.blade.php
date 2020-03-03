@@ -71,15 +71,7 @@
 
                             <span class="text-lg md:text-2xl text-blue-darkest font-semibold hover:text-blue-dark my-0">Dan Ramirez</span>
                         </a>
-                    </div>
-
-                    <div class="flex flex-1 justify-end items-center">
-                        <search></search>
-
-                        @include('_nav.menu')
-
-                        @include('_nav.menu-toggle')
-                    </div>
+                  
                 </div>
             </header>
 
