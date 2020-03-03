@@ -130,7 +130,7 @@
             </div>
             <ul class="flex flex-col md:flex-row justify-center list-reset">
                 <li class="md:mr-2">
-                    &copy; Gavin Marsh {{ date('Y') }}
+                    &copy; Dan Ramirez {{ date('Y') }}
                 </li>
             </ul>
         </footer>
