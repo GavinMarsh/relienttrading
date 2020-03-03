@@ -48,8 +48,6 @@
                     <div class="flex flex-1 justify-end items-center">
                         <search></search>
 
-                        @include('_nav.menu')
-
                         @include('_nav.menu-toggle')
                     </div>
                 </div>
