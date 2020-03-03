@@ -1,9 +1,9 @@
-<div class="flex justify-left lg:-mx-12 my-12 py-12 p-6 md:px-12 bg-grey-lighter border border-grey-light text-sm md:rounded shadow">
+<div class="flex justify-center lg:-mx-12 my-12 py-12 p-6 md:px-12 bg-grey-lighter border border-grey-light text-sm md:rounded shadow">
 
     <div class="flex flex-col items-center text-center max-w-lg">
 
     <h2 class="text-3xl mb-0">Subscribe to recieve my exclusive weekly report</h2>
-    <p class="text-left text-lg mb-0">???</p>
+    <p class="text-center text-lg mb-0">???</p>
 
     <form
     class="w-full max-w-md mt-8"
