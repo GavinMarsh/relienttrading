@@ -15,7 +15,7 @@
         alt="Dan Ramirez"
         class="inline-flex rounded-full h-32 w-32 bg-contain mx-auto">
 
-    <h1 >I'm Rez: Professional Trader of a personal account.</h1>
+    <h1 >I'm Dan Ramirez, humble speculator + believer in Money Management.</h1>
 
     <p>Currently, I post all of my current trades on my Telegram channel <a href="https://www.noblesystems.com/solutions/call-center-gamification/">heyres: Live Trading</a>.</p>
 
