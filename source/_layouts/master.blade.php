@@ -13,17 +13,7 @@
         <meta property="og:image" content="/assets/img/meta.png" />
 
 
-        <title>
-            @if ( strpos($page->getPath(), 'notes') )
-                @stack('title')
-            @else
-            {{ $page->title ?  $page->title . ' | ' : '' }}{{ $page->siteName }}
-            @endif
-        </title>
-
-        <link rel="home" href="{{ $page->baseUrl }}">
-        <link rel="icon" href="/favicon.ico">
-        <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="{{ $page->siteName }} Atom Feed">
+       
 
         @stack('meta')
 
