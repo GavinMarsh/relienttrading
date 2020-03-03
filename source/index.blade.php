@@ -11,7 +11,7 @@
 
 <section class="flex-col justify-center items-center text-center mb-20">
 
-    <img src="/assets/img/rez.jpg"
+    <img src="/assets/img/rez.png"
         alt="Dan Ramirez"
         class="inline-flex rounded-full h-32 w-32 bg-contain mx-auto">
 
