@@ -22,7 +22,17 @@
     <p>STEP 2: Send a picture of the transaction ID and your Telegram username to danramirez1618@protonmail.com</p>
     
     <p>Completing the above will provide you with a one year subscription to my private Telegram broadcast channel where I post all of my trades immediatly, i will also provide you with an affiliation code.</p>
-     
+    
+     <h1>Want to Work Together?</h1>
+
+    <p class="text-xl">Send me an email with a contact name and your refferal code if you have one and i'll send you over instructions how to register.
+    </p>
+    <p class="text-3xl">
+      <a href="mailto:danramirez1618@protonmail.com">
+        &#8594; Shoot me an email.
+      </a>
+    </p>
+    
     <p>Currently, I post all of my current trades on my Telegram channel <a href="https://www.noblesystems.com/solutions/call-center-gamification/">heyres: Live Trading</a>.</p>
 
     <p>I'm co-founding <a href="http://crypto-mars.com">Crypto Mars</a> as lead technical analyst to help educate new investors in the wild-west market of crypto.</p>
