@@ -4,14 +4,14 @@ return [
     // uncomment for deveopment
     'baseUrl' => 'http://localhost:3000/',
     'production' => false,
-    'siteName' => 'Gavin Marsh',
-    'siteDescription' => 'Crazy about good books, growing businesses through honest marketing, and making everyone around me feel loved. Join me on my journey.',
-    'siteAuthor' => 'Gavin Marsh',
+    'siteName' => 'Dan Ramirez',
+    'siteDescription' => 'Crazy about trading',
+    'siteAuthor' => 'Dan Ramirez',
 
     // collections
     'collections' => [
         'posts' => [
-            'author' => 'Gavin Marsh', // Default author, if not provided in a post
+            'author' => 'Dan Ramirez', // Default author, if not provided in a post
             'sort' => '-date',
             'path' => 'blog/{filename}',
         ],
