@@ -56,9 +56,5 @@
          
         </div>
 
-        <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
-
-        @stack('scripts')
-
     </body>
 </html>
