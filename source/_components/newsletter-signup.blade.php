@@ -42,7 +42,7 @@
       </button>
     </div>
   </form>
-    <small class="pt-2">Unsubscribe anytime.</small>
+    <small class="pt-2">You can unsubscribe at anytime.</small>
 </div>
 
 </div>
