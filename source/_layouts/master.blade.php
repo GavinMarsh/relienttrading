@@ -14,10 +14,10 @@
 
         <!-- Twitter Card data -->
         <meta name="twitter:card" content="summary">
-        <meta name="twitter:site" content="@heyrez_">
+        <meta name="twitter:site" content="@crypto_mars">
         <meta name="twitter:title" content="{{ $page->title ?  $page->title . ' | ' : '' }}{{ $page->siteName }}">
         <meta name="twitter:description" content="{{ $page->siteDescription }}">
-        <meta name="twitter:creator" content="@heyrez_">
+        <meta name="twitter:creator" content="@crypto_mars">
         <meta name="twitter:image" content="/assets/img/meta.png">
 
         <title>
@@ -46,6 +46,7 @@
             </script>
 
 
+
         @endif
 
         <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,300i,400,400i,700,700i,800,800i" rel="stylesheet">
@@ -68,9 +69,9 @@
                         <a href="/" title="{{ $page->siteName }} home" class="inline-flex items-center">
                             {{-- <img class="h-8 md:h-10 mr-3" src="/assets/img/logo.svg" alt="{{ $page->siteName }} logo" /> --}}
 
-                            <span class="text-lg md:text-2xl text-blue-darkest font-semibold hover:text-blue-dark my-0">Dan Ramirez</span>
+                            <span class="text-lg md:text-2xl text-blue-darkest font-semibold hover:text-blue-dark my-0">Gavin Marsh</span>
                         </a>
-                   </div>
+                    </div>
 
                     <div class="flex flex-1 justify-end items-center">
                         <search></search>
@@ -78,7 +79,7 @@
                         @include('_nav.menu')
 
                         @include('_nav.menu-toggle')
-                    </div> 
+                    </div>
                 </div>
             </header>
 
@@ -99,7 +100,7 @@
 
             <div class="flex items-center justify-center mx-auto pt-4">
                 <div class="px-1 mx-4">
-                    <a href="https://twitter.com/heyrez_" target="_blank" rel="noopener">
+                    <a href="https://twitter.com/Crypto_mars" target="_blank" rel="noopener">
                         <svg width="26" height="22" viewBox="0 0 26 22" xmlns="http://www.w3.org/2000/svg" class="fill-current w-4 hover:text-blue-darkest">
                             <path class="social-icon" d="M22.937 3.478c1.102-.686 1.947-1.775 2.344-3.07-1.03.636-2.17 1.097-3.387 1.346C20.923.674 19.535 0 18 0c-2.945 0-5.332 2.487-5.332 5.553 0 .436.044.86.136 1.265-4.432-.232-8.362-2.44-10.994-5.803-.46.823-.722 1.777-.722 2.794 0 1.924.942 3.624 2.373 4.622-.873-.028-1.696-.28-2.416-.694v.068c0 2.692 1.837 4.937 4.28 5.445-.448.132-.918.197-1.407.197-.343 0-.68-.033-1.002-.1.677 2.207 2.648 3.815 4.983 3.858-1.827 1.49-4.127 2.377-6.625 2.377-.43 0-.856-.024-1.273-.077C2.36 21.08 5.164 22 8.177 22c9.813 0 15.175-8.463 15.175-15.802 0-.24-.003-.48-.014-.718 1.043-.783 1.95-1.762 2.662-2.876-.957.442-1.985.74-3.063.874z" fill-rule="evenodd"></path>
                         </svg>
@@ -129,7 +130,7 @@
             </div>
             <ul class="flex flex-col md:flex-row justify-center list-reset">
                 <li class="md:mr-2">
-                    &copy; Dan Ramirez {{ date('Y') }}
+                    &copy; Gavin Marsh {{ date('Y') }}
                 </li>
             </ul>
         </footer>
