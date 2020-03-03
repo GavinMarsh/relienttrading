@@ -14,10 +14,10 @@
 
         <!-- Twitter Card data -->
         <meta name="twitter:card" content="summary">
-        <meta name="twitter:site" content="@crypto_mars">
+        <meta name="twitter:site" content="@heyrez_">
         <meta name="twitter:title" content="{{ $page->title ?  $page->title . ' | ' : '' }}{{ $page->siteName }}">
         <meta name="twitter:description" content="{{ $page->siteDescription }}">
-        <meta name="twitter:creator" content="@crypto_mars">
+        <meta name="twitter:creator" content="@heyrez_">
         <meta name="twitter:image" content="/assets/img/meta.png">
 
         <title>
