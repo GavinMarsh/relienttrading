@@ -3,8 +3,6 @@
     <div class="flex flex-col items-center text-center max-w-lg">
 
     <h2 class="text-3xl mb-0">Subscribe to recieve my exclusive weekly report</h2>
-    <p class="text-center text-lg mb-0">???</p>
-
     <form
     class="w-full max-w-md mt-8"
     action="https://mattwoodscreative.us10.list-manage.com/subscribe/post_this_needs_to_be_updated"
@@ -42,7 +40,7 @@
       </button>
     </div>
   </form>
-    <small class="pt-2">You can unsubscribe at anytime.</small>
+    <small class="pt-3">You can unsubscribe at anytime.</small>
 </div>
 
 </div>
