@@ -11,8 +11,16 @@
         <meta property="og:url" content="{{ $page->getUrl() }}"/>
         <meta property="og:description" content="{{ $page->siteDescription }}" />
         <meta property="og:image" content="/assets/img/meta.png" />
-
-        @stack('meta')
+       
+       <title>
+            @if ( strpos($page->getPath(), 'notes') )
+                @stack('title')
+            @else
+            {{ $page->title ?  $page->title . ' | ' : '' }}{{ $page->siteName }}
+            @endif
+        </title>
+       
+       @stack('meta')
 
         @if ($page->production)
             <!-- Global site tag (gtag.js) - Google Analytics -->
